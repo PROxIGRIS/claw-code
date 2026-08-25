@@ -1,8 +1,8 @@
 {
-  "name": "@anthropic-ai/claude-code",
-  "version": "0.0.0-leaked",
-  "description": "Anthropic Claude Code CLI — leaked source (2026-03-31). Not an official release.",
-  "license": "UNLICENSED",
+  "name": "recreation-for-being-borrowed",
+  "version": "4.42.2",
+  "description": "This is a recreation, have fun!",
+  "license": "UNLICENSED, can use freely",
   "private": true,
   "type": "module",
   "main": "src/entrypoints/cli.tsx",
